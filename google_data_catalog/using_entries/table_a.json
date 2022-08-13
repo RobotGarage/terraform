@@ -1,0 +1,34 @@
+{
+  "columns": [
+    {
+      "column": "first_name",
+      "description": "First name",
+      "mode": "REQUIRED",
+      "type": "STRING"
+    },
+    {
+      "column": "last_name",
+      "description": "Last name",
+      "mode": "REQUIRED",
+      "type": "STRING"
+    },
+    {
+      "column": "col_1",
+      "description": "Column 1",
+      "mode": "NULLABLE",
+      "type": "STRING"
+    },
+    {
+      "column": "col_2",
+      "description": "Column 1",
+      "mode": "NULLABLE",
+      "type": "STRING"
+    },
+    {
+      "column": "col_3",
+      "description": "Column 1",
+      "mode": "NULLABLE",
+      "type": "STRING"
+    }
+  ]
+}
